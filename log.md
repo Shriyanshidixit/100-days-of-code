@@ -29,3 +29,11 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
+### Day 0: March 5th 2021 
+(
+
+**Today's Progress**: I learnt Kadane's algorithm today. 
+
+**Thoughts:** Will definitely complete basics of array tomorrow and solve atleast 2 quetions from leetcode of array
+
+**Link to work:** NOT TODAY!
