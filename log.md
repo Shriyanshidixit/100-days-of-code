@@ -37,3 +37,12 @@
 **Thoughts:** Will definitely complete basics of array tomorrow and solve atleast 2 quetions from leetcode of array
 
 **Link to work:** NOT TODAY!
+
+### Day 0: March 5th 2021 
+(
+
+**Today's Progress**: I learnt Hare and tortoise algo+ dutch national flag algo+ optimized code to print pascal triangle today. 
+
+**Thoughts:** How come I didnn;t know earlier
+
+**Link to work:** NOT TODAY!
