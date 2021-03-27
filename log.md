@@ -38,11 +38,11 @@
 
 **Link to work:** NOT TODAY!
 
-### Day 0: March 5th 2021 
+### Day 1: March 28th 2021 
 (
 
 **Today's Progress**: I learnt Hare and tortoise algo+ dutch national flag algo+ optimized code to print pascal triangle today. 
 
-**Thoughts:** How come I didnn;t know earlier
+**Thoughts:** How come I didnn't know about it earlier
 
 **Link to work:** NOT TODAY!
